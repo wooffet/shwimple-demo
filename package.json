@@ -25,6 +25,6 @@
     "homepage": "https://github.com/wooffet/shwimple-demo#readme",
     "dependencies": {
         "express": "^4.17.2",
-        "shwimple": "file:../shwimple"
+        "shwimple": "^3.0.0"
     }
 }
