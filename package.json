@@ -1,0 +1,30 @@
+{
+    "name": "shwimple-demo",
+    "version": "1.0.0",
+    "description": "Demo project for the shwimple library",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wooffet/shwimple-demo.git"
+    },
+    "keywords": [
+        "shwimple",
+        "shwimple-demo",
+        "wooffet"
+    ],
+    "author": "wooffet",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/wooffet/shwimple-demo/issues"
+    },
+    "homepage": "https://github.com/wooffet/shwimple-demo#readme",
+    "dependencies": {
+        "express": "^4.17.2",
+        "shwimple": "file:../shwimple"
+    }
+}
